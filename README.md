@@ -3,8 +3,9 @@
 
 # Raihan's Readme
 
-A quick guide on how to start the project & a look into possible next.
+A quick guide on how to start the project & a look into possible next. 
 
+The frontend & backend are both in src folder for your convenience.
 Have fun! ✨
 
 ## Running the backend
