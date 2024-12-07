@@ -5,8 +5,8 @@
 
 A quick guide on how to start the project & a look into possible next. 
 
-The frontend & backend are both in src folder for your convenience.
-Have fun! ✨
+The Frontend & Backend are both in src folder for your convenience.
+Have fun looking around! ✨
 
 ## Running the backend
 1. Navigate to the `comms` directory:
@@ -30,16 +30,16 @@ Have fun! ✨
 ## Next Steps
 
 - **Testing:**
-  - Use **Jest** for unit tests on frontend and backend.
-  - Write integration tests to ensure proper interaction between frontend and backend.
+  - Write more  unit tests for  **Jest** frontend and backend for full coverage.
+  - Write integration tests aswell to ensure proper interaction between frontend and backend.
 
 - **Separation of Concerns:**
-  - **Backend:** Refactor using MVC for clean separation: controllers for requests, services for logic, and repositories for data.
-  - **Frontend:** Ensure components follow the Single Responsibility Principle and use **Redux** for state management.
+  - **Backend:** Refactor for the MVC design pattern for clean separation: controllers for requests, services for logic, and repositories for data in the future.
+  - **Frontend:** Make sure components follow the Single Responsibility Principle and possibly use **Redux** for state management.
 
 - **API Optimizations:**
-  - Use `async/await` to handle asynchronous tasks and improve performance.
-  - Optimize data processing with `map()` or `reduce()` to handle large datasets efficiently.
+  - Could have used `async/await` to handle asynchronous tasks and improve readability.
+  - Optimise data reads with `map()` or `reduce()` to handle large datasets efficiently.
 
 
 
