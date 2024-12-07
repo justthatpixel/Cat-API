@@ -1,8 +1,4 @@
 # KatKin's Full-stack Coding Test
-## 
-
-
-- The frontend and backend are placed inside the `src` folder for convenience.
 
 ## Running the backend
 1. Navigate to the `comms` directory:
