@@ -30,11 +30,11 @@ Have fun looking around! ✨
 ## Next Steps
 
 - **Testing:**
-  - Write more  unit tests for  **Jest** frontend and backend for full coverage.
+  - Write more  unit tests using  **Jest** for full coverage of all components.
   - Write integration tests aswell to ensure proper interaction between frontend and backend.
 
 - **Separation of Concerns:**
-  - **Backend:** Refactor for the MVC design pattern for clean separation: controllers for requests, services for logic, and repositories for data in the future.
+  - **Backend:** Refactor the code using the MVC design pattern for clean separation: controllers for requests, services for logic, and repositories for data in the future.
   - **Frontend:** Make sure components follow the Single Responsibility Principle and possibly use **Redux** for state management.
 
 - **API Optimizations:**
