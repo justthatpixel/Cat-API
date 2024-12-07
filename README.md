@@ -1,20 +1,45 @@
 # KatKin's Full-stack Coding Test
 
+
+# Raihan's Readme
+
+A quick guide on how to start the project & a look into possible next.
+
+Have fun! ✨
+
 ## Running the backend
 1. Navigate to the `comms` directory:
 
-   ```bash
-   
+```bash
    cd src/comms
    npm run start:dev
-
+```
 ## Running the frontend
 1. Navigate to the welcome-page directory:
 
-   ```bash
-   
+```bash
    cd src/welcome-page
    npm start
+```
+
+
+
+## Possible Next Steps
+
+## Next Steps
+
+- **Testing:**
+  - Use **Jest** for unit tests on frontend and backend.
+  - Write integration tests to ensure proper interaction between frontend and backend.
+
+- **Separation of Concerns:**
+  - **Backend:** Refactor using MVC for clean separation: controllers for requests, services for logic, and repositories for data.
+  - **Frontend:** Ensure components follow the Single Responsibility Principle and use **Redux** for state management.
+
+- **API Optimizations:**
+  - Use `async/await` to handle asynchronous tasks and improve performance.
+  - Optimize data processing with `map()` or `reduce()` to handle large datasets efficiently.
+
 
 
 ## BEFORE YOU BEGIN
