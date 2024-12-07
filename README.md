@@ -1,4 +1,28 @@
 # KatKin's Full-stack Coding Test
+##
+Approach:
+I've placed the frontend and backend in the src folder for your convenience.
+For simplicity and ease of testing, I've chosen to use mock data for the frontend.
+To run the backend:
+Navigate to the comms directory:
+bash
+Copy code
+`cd src/comms`
+Start the backend in development mode:
+bash
+Copy code
+`npm run start:dev`
+To run the frontend:
+Navigate to the welcome-page directory:
+bash
+Copy code
+`cd src/welcome-page`
+Start the frontend:
+bash
+Copy code
+`npm start`
+
+
 
 ## BEFORE YOU BEGIN
 
