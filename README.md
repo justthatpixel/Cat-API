@@ -1,4 +1,4 @@
-# KatKin's Full-stack Coding Test
+# KK's Full Stack Coding Challenge
 
 
 # Raihan's Readme
