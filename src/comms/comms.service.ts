@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import * as usersData from '../../data.json'; // Import raw data
 import { User } from './types/user.interface'; // Import the User interface
-import * as helpers from './helpers/comms.helpers'; // Import helper functions
+import * as helpers from './utils/comms.helpers'; // Import helper functions
 
 @Injectable()
 export class CommsService {

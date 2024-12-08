@@ -1,6 +1,6 @@
 import { CommsService } from './comms.service';
 import { PouchSize } from './constants';
-import * as helpers from './helpers/comms.helpers';
+import * as helpers from './utils/comms.helpers';
 import { User } from './types/user.interface';
 
 // Mock helpers with type definitions
