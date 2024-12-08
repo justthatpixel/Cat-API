@@ -30,16 +30,16 @@ Have fun looking around! ✨
 ## Next Steps
 
 - **Testing:**
-  - Write more  unit tests using  **Jest** for full coverage of all components.
-  - Write integration tests aswell to ensure proper interaction between frontend and backend.
+  - Write more unit tests using Jest, for full coverage.
+  - Write integration tests to ensure the correct inputs give the correct outputs for the frontend and backend.
 
 - **Separation of Concerns:**
-  - **Backend:** Refactor the code using the MVC design pattern for clean separation: controllers for requests, services for logic, and repositories for data in the future.
-  - **Frontend:** Make sure components follow the Single Responsibility Principle and possibly use **Redux** for state management.
+  - **Backend:** Refactor the code with the MVC design pattern for scalability.
+  - **Frontend:** Make sure components follow the Single Responsibility Principle and use **Redux**/useContext for more robust & scalable state management.
 
 - **API Optimizations:**
-  - Could have used `async/await` to handle asynchronous tasks and improve readability.
-  - Optimise data reads with `map()` or `reduce()` to handle large datasets efficiently.
+  - Use `async/await` to handle asynchronous calls and improve performance.
+  - Optimise reads/writes with `map()` or `reduce()` to handle large datasets.
 
 
 
